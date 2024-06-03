@@ -4,6 +4,7 @@
   "description": "To be able to create a FDA-style nutrition label with any nutrition data source",
   "main": "nutritionLabel-min.js",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "nutrition-label-jquery-plugin": "^11.0.13"
   },
   "scripts": {
